@@ -1,4 +1,4 @@
-# Hi there, I'm XukoPop! 👋
+# Hi there, I'm EternalGrxce! 👋
 
 ![Banner GIF](https://i.pinimg.com/736x/0e/cb/0f/0ecb0f48a98a57f57fdd35a5a0dceb88.jpg)
 
