@@ -1,4 +1,4 @@
-# Hi there, I'm EternalGrxce! 👋
+# Hi there, I'm lxzy! 👋
 
 ![Banner GIF](https://i.pinimg.com/736x/0e/cb/0f/0ecb0f48a98a57f57fdd35a5a0dceb88.jpg)
 
@@ -16,25 +16,25 @@ I'm a developer who loves to build cool stuff.
 
 ## My GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EternalGrxce&show_icons=true&theme=graywhite)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lxzyme&show_icons=true&theme=graywhite)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EternalGrxce&theme=graywhite)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lxzyme&theme=graywhite)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EternalGrxce&layout=compact&theme=graywhite)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxzyme&layout=compact&theme=graywhite)
 
 ## Contribution Graph 📈
 
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EternalGrxce&theme=github)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lxzyme&theme=github)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ## Connect With Me 🔗
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EternalGrxce)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lxzyme)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EternalGrxce&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=lxzyme&color=blueviolet" alt="Profile views">
 </p>
